@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "question": "Which programming language is known as the 'mother of all languages'?",
+    "options": ["C", "Fortran", "Assembly", "COBOL"],
+    "correctAnswer": "Assembly",
+    "hint": "This low-level language directly corresponds to machine code."
+  },
+  {
+    "id": 2,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Text Makeup Language"
+    ],
+    "correctAnswer": "Hyper Text Markup Language",
+    "hint": "It's the standard language for creating web pages."
+  },
+  {
+    "id": 3,
+    "question": "What is the time complexity of binary search?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctAnswer": "O(log n)",
+    "hint": "The algorithm divides the search space in half with each comparison."
+  },
+  {
+    "id": 4,
+    "question": "Which of these is NOT a JavaScript framework?",
+    "options": [
+      "React",
+      "Angular",
+      "Laravel",
+      "Vue"
+    ],
+    "correctAnswer": "Laravel",
+    "hint": "This one is actually a PHP framework."
+  },
+  {
+    "id": 5,
+    "question": "What does CSS stand for?",
+    "options": [
+      "Computer Style Sheets",
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Colorful Style Sheets"
+    ],
+    "correctAnswer": "Cascading Style Sheets",
+    "hint": "It controls the visual presentation of HTML elements."
+  },
+  {
+    "id": 6,
+    "question": "Which data structure uses FIFO (First-In-First-Out) principle?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Array",
+      "Tree"
+    ],
+    "correctAnswer": "Queue",
+    "hint": "Think of people waiting in line - first come, first served."
+  },
+  {
+    "id": 7,
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Automated Programming Interface",
+      "Advanced Programming Interface",
+      "Application Process Integration"
+    ],
+    "correctAnswer": "Application Programming Interface",
+    "hint": "It allows different software systems to communicate."
+  },
+  {
+    "id": 8,
+    "question": "Which language is primarily used for Android development?",
+    "options": [
+      "Swift",
+      "Kotlin",
+      "C#",
+      "Ruby"
+    ],
+    "correctAnswer": "Kotlin",
+    "hint": "Google announced it as the preferred language for Android in 2019."
+  },
+  {
+    "id": 9,
+    "question": "What is the main purpose of Docker?",
+    "options": [
+      "Virtualization",
+      "Containerization",
+      "Compilation",
+      "Version Control"
+    ],
+    "correctAnswer": "Containerization",
+    "hint": "It packages applications with all their dependencies into standardized units."
+  },
+  {
+    "id": 10,
+    "question": "Which protocol is used for secure communication over a network?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "HTTPS",
+      "SMTP"
+    ],
+    "correctAnswer": "HTTPS",
+    "hint": "Look for the 'S' which stands for 'Secure'."
+  },
+  {
+    "id": 11,
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "System Query Language"
+    ],
+    "correctAnswer": "Structured Query Language",
+    "hint": "It's used to communicate with relational databases."
+  },
+  {
+    "id": 12,
+    "question": "Which of these is NOT a NoSQL database?",
+    "options": [
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "MySQL"
+    ],
+    "correctAnswer": "MySQL",
+    "hint": "This one uses tables and SQL for data management."
+  },
+  {
+    "id": 13,
+    "question": "What is the main advantage of using React?",
+    "options": [
+      "Server-side rendering",
+      "Virtual DOM",
+      "Built-in state management",
+      "Native mobile support"
+    ],
+    "correctAnswer": "Virtual DOM",
+    "hint": "This feature helps optimize updates to the browser's DOM."
+  },
+  {
+    "id": 14,
+    "question": "Which company developed TypeScript?",
+    "options": [
+      "Google",
+      "Facebook",
+      "Microsoft",
+      "Apple"
+    ],
+    "correctAnswer": "Microsoft",
+    "hint": "The same company that created VSCode and .NET framework."
+  },
+  {
+    "id": 15,
+    "question": "What does DNS stand for?",
+    "options": [
+      "Data Name System",
+      "Domain Name System",
+      "Digital Network System",
+      "Dynamic Name Service"
+    ],
+    "correctAnswer": "Domain Name System",
+    "hint": "It translates human-readable domain names to IP addresses."
+  },
+  {
+    "id": 16,
+    "question": "Which sorting algorithm has the worst time complexity O(n²)?",
+    "options": [
+      "Merge Sort",
+      "Quick Sort",
+      "Bubble Sort",
+      "Heap Sort"
+    ],
+    "correctAnswer": "Bubble Sort",
+    "hint": "This simple algorithm repeatedly steps through the list and compares adjacent elements."
+  },
+  {
+    "id": 17,
+    "question": "What is the output of '5' + 3 in JavaScript?",
+    "options": [
+      "8",
+      "53",
+      "Error",
+      "undefined"
+    ],
+    "correctAnswer": "53",
+    "hint": "JavaScript performs type coercion when using the + operator with different types."
+  },
+  {
+    "id": 18,
+    "question": "Which HTTP status code means 'Not Found'?",
+    "options": [
+      "200",
+      "301",
+      "404",
+      "500"
+    ],
+    "correctAnswer": "404",
+    "hint": "This code is commonly seen when a webpage doesn't exist."
+  },
+  {
+    "id": 19,
+    "question": "What is the purpose of the 'git clone' command?",
+    "options": [
+      "Create a new branch",
+      "Copy a repository to your local machine",
+      "Commit changes",
+      "Merge branches"
+    ],
+    "correctAnswer": "Copy a repository to your local machine",
+    "hint": "This command downloads an existing repository from a remote location."
+  },
+  {
+    "id": 20,
+    "question": "Which of these is a compiled language?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "PHP"
+    ],
+    "correctAnswer": "Java",
+    "hint": "This language uses bytecode that runs on a virtual machine."
+  },
+  {
+    "id": 21,
+    "question": "What does MVC stand for in software architecture?",
+    "options": [
+      "Model View Controller",
+      "Main View Component",
+      "Multiple View Configuration",
+      "Model Variable Controller"
+    ],
+    "correctAnswer": "Model View Controller",
+    "hint": "This pattern separates an application into three interconnected components."
+  },
+  {
+    "id": 22,
+    "question": "Which tool is used for dependency management in JavaScript projects?",
+    "options": [
+      "Maven",
+      "pip",
+      "npm",
+      "gradle"
+    ],
+    "correctAnswer": "npm",
+    "hint": "It stands for Node Package Manager."
+  }
+]
