@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { FaArrowLeft, FaArrowRight, FaLightbulb } from 'react-icons/fa';
-import questionsData from '../data/questions.json';
+import questionsData from './data/questions.json';
 
 const Quiz = ({ playerName, onQuizEnd, darkMode }) => {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
