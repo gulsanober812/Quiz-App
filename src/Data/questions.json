@@ -114,148 +114,185 @@
     "correctAnswer": "HTTPS",
     "hint": "Look for the 'S' which stands for 'Secure'."
   },
-  {
+ {
     "id": 11,
-    "question": "What does SQL stand for?",
+    "question": "What planet is known as the Red Planet?",
     "options": [
-      "Structured Query Language",
-      "Simple Query Language",
-      "Standard Query Language",
-      "System Query Language"
+      "Earth",
+      "Venus",
+      "Mars",
+      "Jupiter"
     ],
-    "correctAnswer": "Structured Query Language",
-    "hint": "It's used to communicate with relational databases."
+    "correctAnswer": "Mars",
+    "hint": "Its surface has a reddish appearance due to iron oxide (rust)."
   },
   {
     "id": 12,
-    "question": "Which of these is NOT a NoSQL database?",
+    "question": "What is the boiling point of water at sea level?",
     "options": [
-      "MongoDB",
-      "Cassandra",
-      "Redis",
-      "MySQL"
+      "50°C",
+      "100°C",
+      "80°C",
+      "120°C"
     ],
-    "correctAnswer": "MySQL",
-    "hint": "This one uses tables and SQL for data management."
+    "correctAnswer": "100°C",
+    "hint": "It’s a standard value used in many science experiments."
   },
   {
     "id": 13,
-    "question": "What is the main advantage of using React?",
+    "question": "Which gas do plants absorb from the atmosphere?",
     "options": [
-      "Server-side rendering",
-      "Virtual DOM",
-      "Built-in state management",
-      "Native mobile support"
+      "Oxygen",
+      "Hydrogen",
+      "Carbon Dioxide",
+      "Nitrogen"
     ],
-    "correctAnswer": "Virtual DOM",
-    "hint": "This feature helps optimize updates to the browser's DOM."
+    "correctAnswer": "Carbon Dioxide",
+    "hint": "It is used during photosynthesis to make food."
   },
   {
     "id": 14,
-    "question": "Which company developed TypeScript?",
+    "question": "Which part of the human body controls all functions?",
     "options": [
-      "Google",
-      "Facebook",
-      "Microsoft",
-      "Apple"
+      "Heart",
+      "Brain",
+      "Lungs",
+      "Liver"
     ],
-    "correctAnswer": "Microsoft",
-    "hint": "The same company that created VSCode and .NET framework."
+    "correctAnswer": "Brain",
+    "hint": "It sends signals through the nervous system."
   },
   {
     "id": 15,
-    "question": "What does DNS stand for?",
+    "question": "What is H₂O commonly known as?",
     "options": [
-      "Data Name System",
-      "Domain Name System",
-      "Digital Network System",
-      "Dynamic Name Service"
+      "Salt",
+      "Oxygen",
+      "Water",
+      "Hydrogen"
     ],
-    "correctAnswer": "Domain Name System",
-    "hint": "It translates human-readable domain names to IP addresses."
+    "correctAnswer": "Water",
+    "hint": "It's essential for life and covers 70% of Earth."
   },
   {
     "id": 16,
-    "question": "Which sorting algorithm has the worst time complexity O(n²)?",
+    "question": "Which vitamin is mainly obtained from sunlight?",
     "options": [
-      "Merge Sort",
-      "Quick Sort",
-      "Bubble Sort",
-      "Heap Sort"
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
     ],
-    "correctAnswer": "Bubble Sort",
-    "hint": "This simple algorithm repeatedly steps through the list and compares adjacent elements."
+    "correctAnswer": "Vitamin D",
+    "hint": "It helps your body absorb calcium."
   },
   {
     "id": 17,
-    "question": "What is the output of '5' + 3 in JavaScript?",
+    "question": "How many planets are there in our solar system?",
     "options": [
+      "7",
       "8",
-      "53",
-      "Error",
-      "undefined"
+      "9",
+      "10"
     ],
-    "correctAnswer": "53",
-    "hint": "JavaScript performs type coercion when using the + operator with different types."
+    "correctAnswer": "8",
+    "hint": "Pluto is no longer officially counted as one."
   },
   {
     "id": 18,
-    "question": "Which HTTP status code means 'Not Found'?",
+    "question": "Which organ pumps blood throughout the body?",
     "options": [
-      "200",
-      "301",
-      "404",
-      "500"
+      "Liver",
+      "Brain",
+      "Lungs",
+      "Heart"
     ],
-    "correctAnswer": "404",
-    "hint": "This code is commonly seen when a webpage doesn't exist."
+    "correctAnswer": "Heart",
+    "hint": "It beats approximately 100,000 times a day."
   },
+
   {
     "id": 19,
-    "question": "What is the purpose of the 'git clone' command?",
+    "question": "What is 7 + 8?",
     "options": [
-      "Create a new branch",
-      "Copy a repository to your local machine",
-      "Commit changes",
-      "Merge branches"
+      "14",
+      "15",
+      "16",
+      "17"
     ],
-    "correctAnswer": "Copy a repository to your local machine",
-    "hint": "This command downloads an existing repository from a remote location."
+    "correctAnswer": "15",
+    "hint": "Add the numbers together: 7 + 8."
   },
   {
     "id": 20,
-    "question": "Which of these is a compiled language?",
+    "question": "What is the square root of 64?",
     "options": [
-      "Python",
-      "JavaScript",
-      "Java",
-      "PHP"
+      "6",
+      "7",
+      "8",
+      "9"
     ],
-    "correctAnswer": "Java",
-    "hint": "This language uses bytecode that runs on a virtual machine."
+    "correctAnswer": "8",
+    "hint": "What number multiplied by itself equals 64?"
   },
   {
     "id": 21,
-    "question": "What does MVC stand for in software architecture?",
+    "question": "What is the value of π (pi) approximately?",
     "options": [
-      "Model View Controller",
-      "Main View Component",
-      "Multiple View Configuration",
-      "Model Variable Controller"
+      "2.14",
+      "3.14",
+      "4.14",
+      "5.14"
     ],
-    "correctAnswer": "Model View Controller",
-    "hint": "This pattern separates an application into three interconnected components."
+    "correctAnswer": "3.14",
+    "hint": "It's commonly used in circle calculations."
   },
   {
     "id": 22,
-    "question": "Which tool is used for dependency management in JavaScript projects?",
+    "question": "What is 12 × 6?",
     "options": [
-      "Maven",
-      "pip",
-      "npm",
-      "gradle"
+      "72",
+      "60",
+      "66",
+      "78"
     ],
-    "correctAnswer": "npm",
-    "hint": "It stands for Node Package Manager."
+    "correctAnswer": "72",
+    "hint": "Use multiplication to find the answer."
+  },
+  {
+    "id": 23,
+    "question": "Which is the smallest prime number?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "2",
+    "hint": "It is the only even prime number."
+  },
+  {
+    "id": 24,
+    "question": "What is the perimeter of a square with side length 5 cm?",
+    "options": [
+      "10 cm",
+      "15 cm",
+      "20 cm",
+      "25 cm"
+    ],
+    "correctAnswer": "20 cm",
+    "hint": "Perimeter = 4 × side length."
+  },
+  {
+    "id": 25,
+    "question": "What is 100 divided by 4?",
+    "options": [
+      "20",
+      "24",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "25",
+    "hint": "Divide 100 by 4."
   }
 ]
