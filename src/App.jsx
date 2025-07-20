@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Results from './Compontents/Results';
 import Quiz from './Compontents/Quiz'
-import './styles/App.css';
+import './App.css';
 import StartScreen from './Compontents/StartScreen';
 import Header from './Compontents/Header';
 
